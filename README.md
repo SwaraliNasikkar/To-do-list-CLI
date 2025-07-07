@@ -31,10 +31,10 @@ It’s all about writing cute code with purpose 💅
 ---
 
 🌈 Future Upgrades (manifesting ✨)
- 
-🖼️ GUI version (Tkinter or PyQt)
-🌐 Web version (Flask or Django)
-🧠 Save tasks to file (so you don’t lose them when you close it!)
+
+- 🖼️ GUI version (Tkinter or PyQt)
+- 🌐 Web version (Flask or Django)
+- 🧠 Save tasks to file (so you don’t lose them when you close it!)
 
 ---
 
