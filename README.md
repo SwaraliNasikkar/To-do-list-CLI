@@ -1,4 +1,4 @@
-📝 To-Do List CLI App ✨
+# 📝 To-Do List CLI App ✨
 
 Hey there! I'm super happy you're here 💖  
 This is a simple, beginner-friendly **Command-Line To-Do List App** built using Python 🐍  
@@ -6,7 +6,7 @@ Whether you're learning to code or just love ticking tasks off in style — this
 
 ---
 
-📦 Features
+## 📦 Features
 
 - ➕ Add new tasks to your list
 - ✅ Mark tasks as complete
@@ -15,7 +15,7 @@ Whether you're learning to code or just love ticking tasks off in style — this
 
 ---
 
-💻 Technologies Used
+## 💻 Technologies Used
 
 - Python (functions, loops, dictionaries)
 - Terminal (CLI)
@@ -23,14 +23,14 @@ Whether you're learning to code or just love ticking tasks off in style — this
 
 ---
 
-🧠 Why I Made This
+## 🧠 Why I Made This
 Because learning Python shouldn’t be boring, and productivity can look ✨adorable✨.
 This was my way of building something real while understanding the basics of coding and version control.
 It’s all about writing cute code with purpose 💅
 
 ---
 
-🌈 Future Upgrades (manifesting ✨)
+## 🌈 Future Upgrades (manifesting ✨)
 
 - 🖼️ GUI version (Tkinter or PyQt)
 - 🌐 Web version (Flask or Django)
@@ -39,7 +39,7 @@ It’s all about writing cute code with purpose 💅
 ---
 
 
-🎯 How to Use
+### 🎯 How to Use
 
 1. Clone this repo  
 2. Run the script from terminal:
